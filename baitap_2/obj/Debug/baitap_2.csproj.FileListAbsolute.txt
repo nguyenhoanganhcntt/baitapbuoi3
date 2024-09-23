@@ -1,0 +1,10 @@
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\bin\Debug\baitap_2.exe.config
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\bin\Debug\baitap_2.exe
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\bin\Debug\baitap_2.pdb
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.csproj.AssemblyReference.cache
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.Form1.resources
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.Properties.Resources.resources
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.csproj.GenerateResource.cache
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.csproj.CoreCompileInputs.cache
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.exe
+C:\Users\HOANG  ANH\source\repos\baitap_2\baitap_2\obj\Debug\baitap_2.pdb
